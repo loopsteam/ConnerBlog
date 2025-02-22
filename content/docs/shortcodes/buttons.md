@@ -1,8 +1,8 @@
-# Buttons
+# 按钮
 
-Buttons are styled links that can lead to local page or external link.
+按钮是样式化的链接，可以导向本地页面或外部链接。
 
-## Example
+## 举例
 
 ```tpl
 {{</* button relref="/" [class="..."] */>}}Get Home{{</* /button */>}}

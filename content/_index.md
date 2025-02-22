@@ -1,41 +1,36 @@
 ---
-title: Introduction
+title: 咸鱼测试员的逍遥录
 type: docs
 ---
 
-# Acerbo datus maxime
+# 🐟 逍遥录  
 
-{{% columns %}}
-## Astris ipse furtiva
+## ◇ 浮生若测
+- 余尝闻世人多追名逐利，独吾志在咸鱼。
+- 身为末流测试匠，不以寻bug为苦，反得大自在。
+- 键盘声碎，恰似竹林清响；用例纷繁，权似棋局作乐。
+```python
+def The_Way_of_Salted_Fish():
+    #需求如山兮,吾自岿然不动
+    #deadline似水兮,漫随天际云卷
+if find_bug:
+print("此乃天赐锦鲤，当浮一大白")
+else:
+print("无事小神仙，且吃茶去")
+```
+## ◇ 咸鱼三乐
+### 测试之乐
+- 寻错如探骊珠，偶得之则抚掌而笑  
+- 开发急如星火，吾自悠哉泡枸杞之  
+- 机械键盘为竿，敲代码当如钓清风
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## ◇ 逍遥物语
+### 归隐之志
+- 南亩耕，北窗眠
+- 青箬笠，绿蓑衣
+- 斜风细雨不须归
 
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{% /columns %}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+> 嗟乎！QA之道，岂在揪错改之？实乃：  
+> 测需求之虚妄  
+> 试人生之边界  
+> 量天地之宽窄  

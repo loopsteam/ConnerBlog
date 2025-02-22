@@ -1,4 +1,7 @@
 theme = "hugo-book"
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "Conner's Blog"
+
+[params]
+  customCSS = ["/css/custom.css", "/css/fonts.css"]

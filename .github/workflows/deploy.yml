@@ -18,7 +18,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.123.7'  # 固定稳定版本
+          hugo-version: '0.128.0'  # 必须升级到此版本
           extended: true
 
       - name: Cache dependencies
@@ -33,7 +33,8 @@ jobs:
         run: |
           hugo --minify \
                --cleanDestinationDir \
-               --baseURL "https://loopsteam.github.io/"
+               --baseURL "https://loopsteam.github.io/" \
+               --enableGitInfo  # 添加此参数解决git信息问题
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

@@ -1,7 +1,14 @@
 theme = "hugo-book"
-baseURL = "https://example.org/"
-languageCode = "en-us"
+baseURL = "https://loopsteam.github.io/"
+languageCode = "zh-CN"
 title = "Conner's Blog"
 
 [params]
   customCSS = ["/css/custom.css", "/css/fonts.css"]
+  BookRepo = "https://github.com/loopsteam/ConnerBlog"
+  BookEditPath = "edit/main/content"
+
+[build]
+  publishDir = "public"
+  noChmod = true
+  noTimes = true

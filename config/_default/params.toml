@@ -1,0 +1,3 @@
+# 在主题参数中添加
+disablePathToLower = true
+BookEditPath = ''  # 清空编辑路径 

@@ -1,7 +1,12 @@
 # 自动生成的文件
-public
-resources
+/public/*
+!/public/.gitkeep  # 保留空目录结构
+/resources/_gen
 .hugo_build.lock
 
-# hugo命令
-hugo.exe
+# 不需要提交可执行文件
+# hugo.exe
+
+# 编辑器文件
+.idea/
+.vscode/
